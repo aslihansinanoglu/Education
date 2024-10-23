@@ -1,24 +1,26 @@
-# Building Site Project
+# Educational Website Project
 
-<h4>This is a basic building site project, where the skeleton is built with HTML and styled with CSS, utilizing the Bootstrap framework for additional responsiveness and layout options. The primary focus of the project is to enhance user comfort and create a clean, user-friendly interface.</h4>
 
-<h1>Features:</h1>
+<h2>This project is a basic-level educational website that prioritizes user comfort. The structure of the site was built using HTML, styled with CSS, and enhanced with the Bootstrap framework for responsiveness and design consistency.</h2>
 
-<h4><b>HTML Structure:</b> The basic structure is designed for simplicity and accessibility.</h4>
+<b>Features:</b>
 
-<h4><b>CSS Styling:</b> Custom styles are applied to enhance visual appeal while maintaining simplicity.</h4>
 
-<h4><b>Bootstrap Integration:</b> The project incorporates the Bootstrap library for a responsive layout and consistent UI elements across different devices and screen sizes.</h4>
+<h3><b>Clean Structure:</b> The HTML provides a well-organized skeleton for the website.</h3>
 
-<h4><b>User-Friendly Design:</b> The main goal is to provide a comfortable and easy-to-navigate user experience.</h4>
+<h3><b>Responsive Design:</b>With the help of Bootstrap, the website adjusts seamlessly across different screen sizes.</h3>
 
-<h1>Technologies Used:</h1>
-<b>HTML
+<h3><b>User-Centered Design:</b>The focus is on delivering a comfortable and accessible user experience.</h3>
 
-CSS
+<b>Technologies Used:</b>
 
-Bootstrap</b>
 
-#LIVE DEMO
+<h4><b>HTML5:</b>For creating the basic structure of the site.</h4>
 
-![]()# Building
+<h4><b>CSS3:</b>For custom styling and layout adjustments.<h4>
+
+<h4><b>Bootstrap:</b>For grid layout, components, and responsive design.</h4>
+
+#Live Demo
+
+![](edu.gif)
