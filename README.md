@@ -1,16 +1,16 @@
 # Educational Website Project
 
 
-<h2>This project is a basic-level educational website that prioritizes user comfort. The structure of the site was built using HTML, styled with CSS, and enhanced with the Bootstrap framework for responsiveness and design consistency.</h2>
+<h4>This project is a basic-level educational website that prioritizes user comfort. The structure of the site was built using HTML, styled with CSS, and enhanced with the Bootstrap framework for responsiveness and design consistency.</h4>
 
 <b>Features:</b>
 
 
-<h3><b>Clean Structure:</b> The HTML provides a well-organized skeleton for the website.</h3>
+<h4><b>Clean Structure:</b> The HTML provides a well-organized skeleton for the website.</h4>
 
-<h3><b>Responsive Design:</b>With the help of Bootstrap, the website adjusts seamlessly across different screen sizes.</h3>
+<h4><b>Responsive Design:</b>With the help of Bootstrap, the website adjusts seamlessly across different screen sizes.</h4>
 
-<h3><b>User-Centered Design:</b>The focus is on delivering a comfortable and accessible user experience.</h3>
+<h4><b>User-Centered Design:</b>The focus is on delivering a comfortable and accessible user experience.</h4>
 
 <b>Technologies Used:</b>
 
