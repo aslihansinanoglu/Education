@@ -15,11 +15,11 @@
 <h1>Technologies Used:</h1>
 
 
-<h4><b>HTML5:</b>For creating the basic structure of the site.</h4>
+<h4><b>HTML5:</b>  For creating the basic structure of the site.</h4>
 
-<h4><b>CSS3:</b>For custom styling and layout adjustments.<h4>
+<h4><b>CSS3:</b>  For custom styling and layout adjustments.<h4>
 
-<h4><b>Bootstrap:</b>For grid layout, components, and responsive design.</h4>
+<h4><b>Bootstrap:</b>  For grid layout, components, and responsive design.</h4>
 
 #Live Demo
 
